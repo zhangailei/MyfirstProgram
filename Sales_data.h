@@ -1,3 +1,4 @@
+
 #include <string>
 using namespace std;
 struct Sales_data
